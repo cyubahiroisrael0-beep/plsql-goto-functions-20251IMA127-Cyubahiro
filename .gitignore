@@ -1,0 +1,18 @@
+# Oracle / SQL Developer
+*.log
+*.lst
+*.tmp
+*.dmp
+*.trc
+
+# SQL Developer user files
+.sqldeveloper/
+*.xml.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
